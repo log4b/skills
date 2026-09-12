@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code"
+  short_description: "Luna xhigh coding with Astra high reviews"
+  default_prompt: "Use $code to implement this feature in small worktree slices with Luna xhigh coding and Astra high reviews."
