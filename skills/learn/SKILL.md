@@ -1,6 +1,6 @@
 ---
 name: learn
-description: Capture-and-promote loop for agent workflow lessons. Two modes — capture: at the end of a substantive work session, write a session self-feedback doc (user corrections, friction, gotchas) committed on the work branch; ingest: periodically collect all pending learnings docs, cluster them, and promote durable lessons into hooks, skills, CLAUDE.md, or memory. Use when the user invokes /learn, says "capture what you learned", "session retro", "ingest the learnings", or when wrapping up a work session before the final commit/PR.
+description: "Capture-and-promote loop for agent workflow lessons. Two modes — capture: at the end of a substantive work session, write a session self-feedback doc (user corrections, friction, gotchas) committed on the work branch; ingest: periodically collect all pending learnings docs, cluster them, and promote durable lessons into hooks, skills, CLAUDE.md, or memory. Use when the user invokes /learn, says \"capture what you learned\", \"session retro\", \"ingest the learnings\", or when wrapping up a work session before the final commit/PR."
 ---
 
 # Learn — session feedback in, workflow improvements out
